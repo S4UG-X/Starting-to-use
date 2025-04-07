@@ -1,2 +1,2 @@
 # Starting-to-use
-This is my first git hub repo
+This is my first git hub repo.
